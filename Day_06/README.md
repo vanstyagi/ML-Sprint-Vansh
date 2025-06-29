@@ -1,1 +1,1 @@
-# Day 06 ✅ Feature Engineering (Encoding, Imputation, Scaling)
+# Day 06 ✅ Feature Engineering Basics (Encoding, Imputation, Scaling)
