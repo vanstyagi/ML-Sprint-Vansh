@@ -1,2 +1,1 @@
-# ML-Sprint-Vansh
-ML &amp; Data Science Sprint by Vansh | Daily Practice + Projects | Python Based
+# Day 06 ✅ Feature Engineering Basics (Encoding, Imputation, Scaling)
